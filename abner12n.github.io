@@ -31,7 +31,7 @@
         }
         h2 {
             color: #1e3799; /* azul oscuro */
-            border-bottom: 2px solid #1e3799; /* línea azul */
+            border-bottom: 2px solid #1e3799; /* lÃ­nea azul */
             padding-bottom: 5px;
             margin-bottom: 15px;
         }
@@ -57,7 +57,7 @@
         }
         .bibliography {
             margin-top: 30px;
-            border-top: 2px solid #1e3799; /* línea azul */
+            border-top: 2px solid #1e3799; /* lÃ­nea azul */
             padding-top: 20px;
         }
         .bibliography h3 {
@@ -102,7 +102,7 @@
             <p>La violencia sexual implica cualquier accion sexual no deseada o coercitiva realizada contra una persona. Esto puede incluir violacion, acoso sexual, abuso sexual, coercion sexual y cualquier otro acto en el que una persona sea obligada a participar en actividad sexual contra su voluntad. La violencia sexual es una violacion grave de los derechos humanos y puede tener consecuencias devastadoras para la victima, incluidos problemas de salud fisica y mental, trauma emocional y dificultades sociales y relacionales.</p>
             <img src="https://bemvivermulher.com/wp-content/uploads/2021/01/violencia-sexual-catia-damasceno.jpg" alt="https://bemvivermulher.com/wp-content/uploads/2021/01/violencia-sexual-catia-damasceno.jpg">
         </div>
-        <!-- Puedes agregar más subtemas aquí -->
+        <!-- Puedes agregar mÃ¡s subtemas aquÃ­ -->
     </div>
     <div class="bibliography">
         <div class="container">
